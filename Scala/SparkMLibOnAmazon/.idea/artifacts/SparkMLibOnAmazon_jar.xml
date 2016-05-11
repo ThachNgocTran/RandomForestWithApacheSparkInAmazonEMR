@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SparkMLibOnAmazon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkMLibOnAmazon_jar</output-path>
+    <root id="archive" name="SparkMLibOnAmazon.jar">
+      <element id="module-output" name="SparkMLibOnAmazon" />
+    </root>
+  </artifact>
+</component>
